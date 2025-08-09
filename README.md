@@ -4,3 +4,5 @@ Este Repositorio foi criado para o modulo de fundamentos de Matematica do curso 
 
 2° o Arquivo Arrays.py explica como utilizar Arrays de 1D, 2B
 
+3° o arquivo Operações_arrays.py criado para mostrar o conceito de operações 
+
